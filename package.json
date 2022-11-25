@@ -1,8 +1,8 @@
 {
   "name": "restarurante",
   "version": "0.1.0",
-   "homepage": "https://Cristian-1980.github.io/Restaurante",
-  "private": true,
+   "homepage": "https://cristian-1980.github.io/Restaurante/",
+  "private": "false",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.2.1",
     "@testing-library/jest-dom": "^5.16.5",
