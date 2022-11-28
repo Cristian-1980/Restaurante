@@ -1,2 +1,2 @@
 # Restaurant
-Aplicacion de Resraurante 
+Aplicacion de Restaurante 
